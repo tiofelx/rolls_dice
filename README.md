@@ -15,4 +15,4 @@ Este é um simples simulador de lançamento de dados escrito em Python. O objeti
 3. Execute o programa:
 
 ```bash
-python simulador_dados.py
+python rolls_dice.py
