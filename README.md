@@ -16,3 +16,6 @@ Este é um simples simulador de lançamento de dados escrito em Python. O objeti
 
 ```bash
 python rolls_dice.py
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
